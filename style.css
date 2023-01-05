@@ -102,6 +102,7 @@ button img{
     padding:3rem;
 }
 
+/* media queries */
 
 @media (max-width:580px) {
     .card{
