@@ -105,7 +105,6 @@ button img{
 
 /* media queries small */
 
-
 @media (max-width:580px) {
     .card{
         width: 92%;
@@ -117,7 +116,6 @@ button img{
         overflow: hidden;
     }
 }
-
 
 @media (max-width:400px){
     .left img{
